@@ -1,2 +1,13 @@
-# uneviedefourmi
-Algorithm, graphs, ant's travels in anthill
+# Une vie de fourmi
+
+## Contexte du projet
+/
+
+## La problématique
+/
+
+## Solutions apportées
+/
+
+## Conclusion
+/
