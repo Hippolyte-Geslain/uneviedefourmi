@@ -8,7 +8,10 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 
-# OS / éditeurs
+# Images generees par le programme (python main.py --images)
+images/
+
+# OS / editeurs
 .DS_Store
 Thumbs.db
 *.zip
