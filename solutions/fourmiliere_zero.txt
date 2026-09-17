@@ -1,0 +1,8 @@
+fourmiliere_zero.txt : 2 fourmis, dortoir atteint en 2 étapes (plus court trajet : 2 tunnels)
+
++++ E1 +++
+f1 - Sv - S1
+f2 - Sv - S2
++++ E2 +++
+f1 - S1 - Sd
+f2 - S2 - Sd
