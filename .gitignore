@@ -1,0 +1,14 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+*.zip
